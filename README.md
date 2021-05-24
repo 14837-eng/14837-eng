@@ -2,14 +2,6 @@ Hi 👋, I’m @14837-eng
 
 A passionate Angular frontend developer from Russia
 
-### I like
-
-- :blush: write code 
-- :closed_book: learn new
-- :headphones: listening music
-- :video_game: play in games
-
-
 ### Skils and Tools
 
 <img align="left" alt="Bootstrap" width="54px" src="https://img.icons8.com/color/452/bootstrap.png">
