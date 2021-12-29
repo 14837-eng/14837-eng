@@ -20,7 +20,7 @@ A passionate Angular frontend developer from Russia
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=14837-eng&theme=dark">
 
-<br><br><br>
+<br>
 
 and more...
 
