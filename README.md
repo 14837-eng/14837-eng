@@ -1,6 +1,6 @@
 Hi 👋, I’m @14837-eng
 
-A passionate Angular frontend developer from Russia
+A passionate frontend developer from Russia
 
 ### Skils and Tools
 
