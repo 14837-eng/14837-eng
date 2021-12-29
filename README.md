@@ -14,6 +14,12 @@ A passionate Angular frontend developer from Russia
 <img align="left" alt="Webpack" width="50px" src="https://cdn.worldvectorlogo.com/logos/webpack.svg">
 <img align="left" alt="Gulp" width="26px" src="https://logos-download.com/wp-content/uploads/2018/05/Gulp_logo_red-317x700.png">
 
+<br><br>
+
+### Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=14837-eng&theme=dark">
+
 <br><br><br>
 
 and more...
