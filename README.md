@@ -13,11 +13,9 @@ A passionate frontend developer from Russia
 <img align="left" alt="TypeScript" width="54px" src="https://blog.submain.com/wp-content/uploads/2020/12/typescript_2500.png">
 <img align="left" alt="Webpack" width="50px" src="https://cdn.worldvectorlogo.com/logos/webpack.svg">
 <img align="left" alt="Gulp" width="26px" src="https://logos-download.com/wp-content/uploads/2018/05/Gulp_logo_red-317x700.png">
-
 <br>
 
 and more...
-
 <br>
 
 ### Activity
