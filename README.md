@@ -18,10 +18,6 @@ A passionate frontend developer from Russia
 and more...
 <br>
 
-### Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=14837-eng&theme=dark">
-
 ### Contacts
 
 <a href="https://t.me/coffiedev">Telegram</a>
