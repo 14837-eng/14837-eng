@@ -19,5 +19,3 @@ and more...
 <br>
 
 ### Contacts
-
-<a href="https://t.me/coffiedev">Telegram</a>
