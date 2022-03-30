@@ -19,5 +19,4 @@ and more...
 <br>
 
 ### Contacts
-<br>
 not relevant now
