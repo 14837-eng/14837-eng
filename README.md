@@ -2,7 +2,7 @@ Hi 👋, I’m @14837-eng
 
 Front-end developer obsessed with anime and programming. 
 
-私の目標は暗闇にあるので、私の目は長い間閉じられていました。
+私の目標は長いコーディングセッションの後に十分な睡眠をとることであるため、私の目は長い間閉じられていました。
 
 ### 💻 Skils and Tools: <br><br>
 
