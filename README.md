@@ -1,6 +1,6 @@
 私の目標は長いコーディングセッションの後に十分な睡眠をとることであるため、私の目は長い間閉じられていました。
 
-### 💻 Skils and Tools: <br><br>
+### 💻 Skils and Tools: <br>
 
 <img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 <img align="left" alt="HTML5" width="40px" src="https://clay-atlas.com/wp-content/uploads/2020/02/html.png">
@@ -15,7 +15,7 @@
 
 <br><br>
 
-### <br> Contact me: <br><br>
+### <br> Contact me: <br>
 
 <a href="https://t.me/HostListening">
   <img width="28.88" src="https://www.freeiconspng.com/thumbs/telegram-icon/telegram-icon-15.png">
