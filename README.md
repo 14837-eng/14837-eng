@@ -11,7 +11,7 @@
 <img align="left" alt="RxJs" width="40px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png">
 <img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
 <img align="left" alt="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
-<img align="left" alt="Golang" width="40px" src="https://rtfm.co.ua/wp-content/uploads/2018/02/golang-color-icon2.png"><br>
+<img align="left" alt="Golang" width="40px" src="https://rtfm.co.ua/wp-content/uploads/2018/02/golang-color-icon2.png"><br><br>
 
 <br>
 
