@@ -1,6 +1,8 @@
 Hi 👋, I’m @14837-eng
 
-A passionate frontend developer from Russia
+Front-end developer obsessed with anime and programming. 
+
+私の目標は暗闇にあるので、私の目は長い間閉じられていました。
 
 ### 💻 Skils and Tools: <br><br>
 
