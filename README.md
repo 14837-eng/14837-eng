@@ -15,7 +15,7 @@
 
 <br><br>
 
-### <br> Contact me (open source only): <br>
+### <br> Contact me (not for commerce): <br>
 
 <a href="https://t.me/HostListening">
   <img width="28.88" src="https://www.freeiconspng.com/thumbs/telegram-icon/telegram-icon-15.png">
