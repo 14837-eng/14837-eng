@@ -1,8 +1,7 @@
 日本語を知らない人には日本語がかっこよく見えるので、ここにいくつかの無意味な引用があります <br><br>
 
 ### 💻 Skils and Tools: <br>
-
-<img align="left" alt="Git" title="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+##### - Frontend
 <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://clay-atlas.com/wp-content/uploads/2020/02/html.png">
 <img align="left" alt="CSS3" title="CSS3" width="40px"  src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png">
 <img align="left" alt="SASS" title="SASS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
@@ -11,7 +10,20 @@
 <img align="left" alt="RxJs" title="RxJs" width="40px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png">
 <img align="left" alt="TypeScript" title="TypeScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
 <img align="left" alt="Webpack" title="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
+<img align="left" alt="Cypress" title="Cypress" width="40px" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"> 
+<br><br>
+
+##### - Backend
+<img align="left" alt="Node js" title="Node js" width="40px" src="https://raw.github.com/CircleCI-Public/cimg-node/main/img/circle-nodejs.svg?sanitize=true"> 
 <img align="left" alt="Golang" title="Golang" width="40px" src="https://rtfm.co.ua/wp-content/uploads/2018/02/golang-color-icon2.png"> 
+<img align="left" alt="Swagger" title="Swagger" width="40px" src="https://b2btestdrive.extranetusermanager.com/img/Swagger-Icon.png"> 
+<br><br>
+
+##### - Other
+<img align="left" alt="Git" title="Git" width="40px" src="https://res.cloudinary.com/hshanbhag/image/upload/v1570918011/blog.shanbhag.me/git_logo_wqwi5r.png">
+<img align="left" alt="NGINX" title="NGINX" width="40px" src="https://en-wiki.ikoula.com/images/4/4a/Nginx.png"> 
+<img align="left" alt="Docker" title="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"> 
+
 
 <br><br>
 
