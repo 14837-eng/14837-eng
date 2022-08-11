@@ -1,6 +1,7 @@
-<p title="Не лезь в переводчик, эта фраза бессмысленная">日本語を知らない人には日本語がかっこよく見えるので、ここにいくつかの無意味な引用があります</p> <br><br>
+<p title="Не лезь в переводчик, эта фраза бессмысленная">日本語を知らない人には日本語がかっこよく見えるので、ここにいくつかの無意味な引用があります</p> 
+<br>
 
-### 💻 Skils and Tools: <br>
+### 💻 Skils and Tools: 
 ##### - Frontend
 <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://clay-atlas.com/wp-content/uploads/2020/02/html.png">
 <img align="left" alt="CSS3" title="CSS3" width="40px"  src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png">
@@ -23,11 +24,9 @@
 <img align="left" alt="NGINX" title="NGINX" width="40px" src="https://en-wiki.ikoula.com/images/4/4a/Nginx.png"> 
 <img align="left" alt="Docker" title="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"> 
 
-
-
 <br><br>
 
-### <br> Contact me: <br>
+### Contact me:
 
 <a href="https://t.me/ccwerw">
   <img width="28.88" src="https://www.freeiconspng.com/thumbs/telegram-icon/telegram-icon-15.png">
