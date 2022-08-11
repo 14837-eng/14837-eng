@@ -14,7 +14,7 @@
 <img align="left" alt="Cypress" title="Cypress" width="40px" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"> 
 <img alt="Webpack" title="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
 
-##### - Other
+##### - Additionally
 <img align="left" alt="Git" title="Git" width="40px" src="https://res.cloudinary.com/hshanbhag/image/upload/v1570918011/blog.shanbhag.me/git_logo_wqwi5r.png">
 <img align="left" alt="NGINX" title="NGINX" width="40px" src="https://en-wiki.ikoula.com/images/4/4a/Nginx.png"> 
 <img alt="Docker" title="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"> 
