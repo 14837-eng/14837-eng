@@ -1,7 +1,5 @@
 <p title="Не лезь в переводчик, эта фраза бессмысленная">日本語を知らない人には日本語がかっこよく見えるので、ここにいくつかの無意味な引用があります</p> 
 
-<br>
-
 ### 💻 Skils and Tools: 
 ##### - Frontend
 <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://clay-atlas.com/wp-content/uploads/2020/02/html.png">
