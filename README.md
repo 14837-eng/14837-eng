@@ -22,7 +22,7 @@
 ##### - Other
 <img align="left" alt="Git" title="Git" width="40px" src="https://res.cloudinary.com/hshanbhag/image/upload/v1570918011/blog.shanbhag.me/git_logo_wqwi5r.png">
 <img align="left" alt="NGINX" title="NGINX" width="40px" src="https://en-wiki.ikoula.com/images/4/4a/Nginx.png"> 
-<img align="left" alt="Docker" title="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"> 
+<img alt="Docker" title="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"> 
 
 <br><br>
 
