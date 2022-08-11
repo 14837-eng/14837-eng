@@ -10,14 +10,13 @@
 <img align="left" alt="RxJs" title="RxJs" width="40px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png">
 <img align="left" alt="TypeScript" title="TypeScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
 <img align="left" alt="Cypress" title="Cypress" width="40px" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"> 
-<img align="left" alt="Webpack" title="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
+<img alt="Webpack" title="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
 
-<br><br>
 
 ##### - Backend
 <img align="left" alt="Swagger" title="Swagger" width="40px" src="https://b2btestdrive.extranetusermanager.com/img/Swagger-Icon.png"> 
-<img align="left" alt="Golang" title="Golang" width="40px" src="https://rtfm.co.ua/wp-content/uploads/2018/02/golang-color-icon2.png"> 
-<br><br>
+<img alt="Golang" title="Golang" width="40px" src="https://rtfm.co.ua/wp-content/uploads/2018/02/golang-color-icon2.png"> 
+
 
 ##### - Other
 <img align="left" alt="Git" title="Git" width="40px" src="https://res.cloudinary.com/hshanbhag/image/upload/v1570918011/blog.shanbhag.me/git_logo_wqwi5r.png">
