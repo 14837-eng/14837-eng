@@ -13,9 +13,9 @@
 <img alt="Webpack" title="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
 
 ##### - Additionally
-<img align="left" alt="Git" title="Git" width="40px" src="https://res.cloudinary.com/hshanbhag/image/upload/v1570918011/blog.shanbhag.me/git_logo_wqwi5r.png">
-<img align="left" alt="NGINX" title="NGINX" width="40px" src="https://en-wiki.ikoula.com/images/4/4a/Nginx.png"> 
-<img alt="Docker" title="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"> 
+<img align="left" alt="Git" title="Git" width="40px" src="https://i0.wp.com/jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png?resize=324%2C324&ssl=1">
+<img align="left" alt="NGINX" title="NGINX" width="40px" src="https://docs.lando.dev/nginx/images/nginxicon.png"> 
+<img alt="Docker" title="Docker" width="40px" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"> 
 
 <br>
 
