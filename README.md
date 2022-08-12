@@ -19,7 +19,7 @@
 
 <br>
 
-### 📖 Contacts:
+### 📚 Contacts:
 
 <a href="https://t.me/ccwerw">
   <img width="28.88" src="https://www.freeiconspng.com/thumbs/telegram-icon/telegram-icon-15.png">
