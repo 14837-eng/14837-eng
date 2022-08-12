@@ -17,7 +17,6 @@
 <img align="left" alt="NGINX" title="NGINX" width="40px" src="https://docs.lando.dev/nginx/images/nginxicon.png"> 
 <img alt="Docker" title="Docker" width="40px" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"> 
 
-<br>
 
 ### 📚 Contacts:
 
