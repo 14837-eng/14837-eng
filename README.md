@@ -1,21 +1,20 @@
 <p title="Не лезь в переводчик, эта фраза бессмысленная">日本語を知らない人には日本語がかっこよく見えるので、ここにいくつかの無意味な引用があります</p> 
 
 ### 💻 Skils and Tools: 
-##### - Frontend
-<img align="left" alt="HTML5" title="HTML5" width="40px" src="https://clay-atlas.com/wp-content/uploads/2020/02/html.png">
-<img align="left" alt="CSS3" title="CSS3" width="40px"  src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png">
-<img align="left" alt="SASS" title="SASS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
-<img align="left" alt="Angular" title="Angular" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png">
-<img align="left" alt="React" title="React" width="40px" src="http://ibthemespro.com/docs/beny/img/side-nav/cmm4.png">
-<img align="left" alt="RxJs" title="RxJs" width="40px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png">
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
-<img align="left" alt="Cypress" title="Cypress" width="40px" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"> 
-<img alt="Webpack" title="Webpack" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png">
+##### - Layout
+<img src="https://skillicons.dev/icons?i=html,css,sass">
+
+#### - Languages
+<img src="https://skillicons.dev/icons?i=js,ts,golang">
+
+##### - Libraries & Frameworks
+<img src="https://skillicons.dev/icons?i=angular,nest,react,rxjs,express">
+
+##### - Testing
+<img src="https://skillicons.dev/icons?i=jest,cypress">
 
 ##### - Additionally
-<img align="left" alt="Git" title="Git" width="40px" src="https://i0.wp.com/jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png?resize=324%2C324&ssl=1">
-<img align="left" alt="NGINX" title="NGINX" width="40px" src="https://docs.lando.dev/nginx/images/nginxicon.png"> 
-<img alt="Docker" title="Docker" width="40px" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"> 
+<img src="https://skillicons.dev/icons?i=nodejs,git,nginx,docker,apollo,redux">
 
 
 ### 📚 Contacts:
