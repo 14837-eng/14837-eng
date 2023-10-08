@@ -29,10 +29,17 @@ Now I am actively studying Golang for my internal needs. It is likely that somew
 
 
 ### 📚 Contacts:
-
-<a href="https://t.me/ccwerw">
-  <img width="28.88" src="https://www.freeiconspng.com/thumbs/telegram-icon/telegram-icon-15.png">
-</a>
-<a href="mailto:desonanton@gmail.com">
-  <img width="90" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465">
-</a>
+<table>
+  <tbody><tr>
+    <th>
+      <a href="https://t.me/ccwerw" rel="nofollow"><img src="https://camo.githubusercontent.com/2404f1d5a395c111b238d67f65ed6ae294fdd10115e39b5592a8d5e36525b3c5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f74656c656772616d2d6170702e706e67" width="50" height="50" data-canonical-src="https://img.icons8.com/fluency/48/telegram-app.png" style="max-width: 100%;"></a>
+    </th>
+    <th><b>@ccwerw</b></th>
+  </tr>
+  <tr>
+    <th>
+      <a href="mailto:desonanton@gmail.com"><img src="https://camo.githubusercontent.com/1a1f8abba41f5c230dae58df6f8aacbcc36874641d9eb42628b0683cb39115c1/68747470733a2f2f696d672e69636f6e73382e636f6d2f33642d666c75656e63792f39342f66696c6c65642d6d6573736167652e706e67" alt="filled-message" width="50" height="50" data-canonical-src="https://img.icons8.com/3d-fluency/94/filled-message.png" style="max-width: 100%;"></a>
+    </th>
+    <th><b>desonanton@gmail.com</b></th>
+  </tr>
+</tbody></table>
