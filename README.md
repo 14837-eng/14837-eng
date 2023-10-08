@@ -10,11 +10,14 @@
 ##### - Libraries & Frameworks
 <img src="https://skillicons.dev/icons?i=angular,nest,react,rxjs,express">
 
+##### - Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql">
+
 ##### - Testing
 <img src="https://skillicons.dev/icons?i=jest,cypress">
 
 ##### - Additionally
-<img src="https://skillicons.dev/icons?i=nodejs,webpack,git,nginx,docker,apollo,redux">
+<img src="https://skillicons.dev/icons?i=nodejs,webpack,git,nginx,docker,graphql,apollo,redux,linux">
 
 
 ### 📚 Contacts:
