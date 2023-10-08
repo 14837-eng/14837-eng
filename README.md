@@ -2,7 +2,7 @@
 
 ### 💻 Skils and Tools: 
 ##### - Layout
-<img src="https://skillicons.dev/icons?i=html,css,sass">
+<img src="https://skillicons.dev/icons?i=html,css,sass,materialui">
 
 #### - Languages
 <img src="https://skillicons.dev/icons?i=js,ts,golang">
@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=jest,cypress">
 
 ##### - Additionally
-<img src="https://skillicons.dev/icons?i=nodejs,git,nginx,docker,apollo,redux">
+<img src="https://skillicons.dev/icons?i=nodejs,webpack,git,nginx,docker,apollo,redux">
 
 
 ### 📚 Contacts:
