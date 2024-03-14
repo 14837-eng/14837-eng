@@ -1,11 +1,7 @@
 <p> Привет. Меня зовут Антон, и я являюсь frontend разработчиком. Люблю создавать что-то интерактивное и удобное. <br>
-В активной разработке нахожусь уже около 3х лет. Ищу новые границы опыта. Познаю разные технологии, пробовал себя в качестве fullstack разработчика (успешно).  <br>
-Сейчас активно изучаю Golang для своих внутренних потребностей. Вероятно, что где-то буду использовать данный ЯП в профессиональной разработке. (но это не точно) 
 </p> 
 
 <p> Hi. My name is Anton and I am a frontend developer. I like to create something interactive and convenient.  <br>
-I have been in active development for about 3 years. I am looking for new boundaries of experience. I learn different technologies, tried myself as a fullstack developer (successfully).  <br>
-Now I am actively studying Golang for my internal needs. It is likely that somewhere I will use this language in professional development. (but it's not for sure). 
 </p> 
 
 ### 💻 Skils and Tools: 
